@@ -1,5 +1,6 @@
 ---
 layout: home
+title: ""
 ---
 
 <div style="float: left; margin-right: 15px;">
