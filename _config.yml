@@ -3,3 +3,13 @@ description: "欢迎来到孔敏的学术主页"
 baseurl: ""
 url: "https://ahnukm.github.io"
 theme: minima
+markdown: kramdown
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-feed
+
+# 添加自定义样式
+include:
+  - assets/css/style.css
