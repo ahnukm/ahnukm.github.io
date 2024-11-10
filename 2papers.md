@@ -4,9 +4,9 @@ title: "学术论文"
 permalink: /papers/
 ---
 
-## 学术论文
-
 孔敏副教授围绕工业机器人、存储芯片制造过程优化方向，在 *Omega*、*International Journal of Production Economics*、*International Journal of Production Research*、*Journal of Global Optimization*、*Annals of Operations Research*、*Computers & Industrial Engineering* 等学科领域重要学术期刊上发表学术论文30余篇，其中1篇入选ESI高被引论文。
+
+---
 
 ### 代表性研究成果
 
@@ -20,6 +20,8 @@ permalink: /papers/
 8. Weijian Zhang (研究生), Min Kong*, Yajing Zhang, Amir M. Fathollahi-Fard*. "Bi-Level Programming for Photo-Etching and Acid-Etching Processes in Sustainable Storage Chip Manufacturing." *Journal of Industrial Information Integration*, 2024, 100727. (中科院一区, IF 10.4)
 9. Shaojun Lu, Chiwei Hu, Min Kong*, Amir M. Fathollahi-Fard, Maxim A. Dulebenets*. "Scheduling of memory chips for final testing on parallel machines considering power constraints and deteriorating effects." *International Journal of Production Economics*, 278 (2024): 109413. (中科院一区TOP期刊， IF 10.3)
 10. Jun Pei*, Haoxin Wang, Min Kong*, Nenad Mladenovic, Panos M Pardalos. "Bi-level scheduling in high-end equipment R&D: when more algorithm strategies may not be better." *International Journal of Production Research*, 2022, 10.1080/00207543.2022.2102448. (中科院二区TOP期刊, IF 7.0)
+    
+---
 
 ### 谷歌学术链接
 更多论文请访问 [谷歌学术](https://scholar.google.com/citations?user=aSy3IrUAAAAJ&hl=en&inst=3212728378801010220)
