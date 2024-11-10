@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "首页"
 ---
 
 <div style="float: left; margin-right: 15px;">
