@@ -4,7 +4,7 @@ title: "学术论文"
 permalink: /papers/
 ---
 
-孔敏副教授围绕工业机器人、存储芯片制造过程优化方向，在 *Omega*、*International Journal of Production Economics*、*International Journal of Production Research*、*Journal of Global Optimization*、*Annals of Operations Research*、*Computers & Industrial Engineering* 等学科领域重要学术期刊上发表学术论文30余篇，其中1篇入选ESI高被引论文。
+围绕工业机器人、存储芯片制造过程优化方向，在 *Omega*、*International Journal of Production Economics*、*International Journal of Production Research*、*Journal of Global Optimization*、*Annals of Operations Research*、*Computers & Industrial Engineering* 等学科领域重要学术期刊上发表学术论文30余篇，其中1篇入选ESI高被引论文。
 
 ---
 
