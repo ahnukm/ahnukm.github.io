@@ -4,8 +4,6 @@ title: "研究生"
 permalink: /students/
 ---
 
-## 研究生
-
 ### 目前指导的研究生
 
 <div style="overflow: hidden; margin-bottom: 20px;">
