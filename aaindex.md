@@ -4,7 +4,7 @@ title: "首页"
 ---
 
 <div style="text-align: center;">
-    <img src="assets/images/myphoto.jpg" alt="孔敏的照片" style="width:200px; border-radius:50%; border:2px solid #000;">
+    <img src="assets/images/myphoto.jpg" alt="孔敏的照片" style="width:200px; height:200px; border:2px solid #000;">
 </div>
 
 ## 个人简介
@@ -26,8 +26,6 @@ title: "首页"
 ### 联系方式
 - hfutkm@126.com
 - minkong@ahnu.edu.cn
-
----
 
 ## 学习工作经历
 
