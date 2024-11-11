@@ -12,7 +12,7 @@ permalink: /students/
 </div>
 
 <div style="overflow: hidden; margin-bottom: 20px;">
-    <strong>吴婷婷，2020级工商管理专业</strong>  
+    <strong>吴婷婷，2022级工商管理专业</strong>  
     <br>研究方向：城市韧性耦合协调
 </div>
 
