@@ -4,7 +4,7 @@ title: "首页"
 ---
 
 <div style="float: left; margin-right: 15px;">
-    <img src="assets/images/myphoto.jpg" alt="孔敏的照片" style="width:150px; height:200px; border:2px solid #000;">
+    <img src="assets/images/dcf29baa0f16421a83ea86d4644fe53.jpg" alt="孔敏的照片" style="width:150px; height:200px; border:2px solid #000;">
 </div>
 
 孔敏，男，1991年7月生，安徽池州人，管理学博士，现任安徽师范大学经济管理学院副教授，硕士生导师。现为国际学术期刊Energy Systems副主编（Springer Nature出版社，2023年影响因子：2.3）。主要从事数据驱动的供应链协同调度研究工作。主持国家自然科学基金青年科学基金项目、中国博士后科学基金面上资助项目、教育部人文社会科学研究青年项目、安徽省自然科学基金青年项目、安徽省哲学社会科学规划课题青年项目、安徽高校自然科学研究项目重点项目等多个国家级、省部级项目研究。近五年，在Omega、IJPE、IJPR、EAAI、CIE等重要期刊发表高质量学术论文20余篇。授权发明专利10余件。
